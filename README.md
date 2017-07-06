@@ -26,7 +26,7 @@ By the end of this module you will be able to
 HTML can embed programs written in a scripting language such as JavaScript which affect the behavior and content of web pages. Inclusion of CSS defines the look and layout of content.
 Latest version is HTML5
 
-####Alternative——SVG or HTML
+#### Alternative——SVG or HTML
 Comparsion
 - SVG: graphic approach, few libiaries
 - HTML: text approach, many libiaries
